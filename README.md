@@ -1,8 +1,6 @@
-# Algorithms-
-This repository contains the collection of Operating System (OSY) practical programs implemented in C/Python as per the diploma syllabus. The programs cover fundamental CPU Scheduling, Page Replacement, and File Allocation algorithms that form the core of Operating Systems concepts.
-# OSY Practical Codes – Diploma Semester
+# OSY Practical Codes – Semester 5
 
-This repository contains all the Operating System practical programs implemented in C for the diploma curriculum.  
+This repository contains all the Operating System practical programs implemented in Python for Semester 5 of the diploma curriculum.  
 It includes CPU Scheduling, Page Replacement, Deadlock Handling, and File Allocation methods.
 
 ---
@@ -33,20 +31,9 @@ It includes CPU Scheduling, Page Replacement, Deadlock Handling, and File Alloca
    git clone https://github.com/Yashrajpawar-dev/Algorithms-.git
 Navigate to the program file.
 
-Compile and run the C program:
+Run the Python program:
 
 bash
 Copy code
-gcc filename.c -o output
-./output
-Note
-All programs are written in a simple format with short comments for easy understanding and lab submission.
+python filename.py
 
-yaml
-Copy code
-
----
-
-If you want, I can **also make it even shorter**, fully minimal, so you can just paste it in the repo and it looks clean.  
-
-Do you want me to do that?
